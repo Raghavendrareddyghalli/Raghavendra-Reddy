@@ -6,13 +6,13 @@ Welcome to my GitHub profile! I'm a Data Analyst dedicated to transforming compl
 
 ## 🛠 Skills
 
-“*” Excel
-“*” Power BI
-“*” SQL
-“*” Python
-“*” Statistics
-“*” Machine Learning 
-“*” SPSS
+* Excel
+* Power BI
+* SQL
+* Python
+* Statistics
+* Machine Learning 
+* SPSS
 
 
 
